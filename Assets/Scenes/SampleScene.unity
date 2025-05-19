@@ -288,8 +288,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fa1332c378b8aa4cafe1bd70591af2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shapeName: 
-  shapeColor: {r: 0, g: 1, b: 0.0209651, a: 0}
+  shapeName: Sphere
+  shapeColor: {r: 0, g: 0, b: 0, a: 0}
   colorCycle:
   - {r: 1, g: 0, b: 0, a: 1}
   - {r: 0, g: 1, b: 0, a: 1}
@@ -563,7 +563,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pick shape
+  m_text: Pick a shape
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -859,8 +859,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13fcbaa19b830dc4a8eba7ce2eea229a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shapeName: 
-  shapeColor: {r: 0, g: 0.12767339, b: 1, a: 0}
+  shapeName: Capsule
+  shapeColor: {r: 0, g: 0, b: 0, a: 0}
   colorCycle:
   - {r: 1, g: 0, b: 0, a: 1}
   - {r: 0, g: 1, b: 0, a: 1}
@@ -1034,8 +1034,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 120d22d557e1f7c458fe351bf4d5baa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shapeName: 
-  shapeColor: {r: 1, g: 0, b: 0, a: 0}
+  shapeName: Cube
+  shapeColor: {r: 0, g: 0, b: 0, a: 0}
   colorCycle:
   - {r: 1, g: 0, b: 0, a: 1}
   - {r: 0, g: 1, b: 0, a: 1}
